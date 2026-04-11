@@ -1,6 +1,12 @@
 # Aleksandr Zaitsev
 
-AI Automation Specialist / Prompt Engineer
+
+💼 AI Automation Specialist / Prompt Engineer  
+📍 Barcelona, Spain  
+📫 aleksandr.zaitsev.ai@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/aleksandr-zaitsev-229334216)
+
+
 
 ## About me
 I build automation systems for business using AI tools, Excel, Google Sheets and scripting.
