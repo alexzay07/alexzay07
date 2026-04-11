@@ -1,16 +1,33 @@
-## Hi there 👋
+# Aleksandr Zaitsev
 
-<!--
-**alexzay07/alexzay07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation Specialist / Prompt Engineer
 
-Here are some ideas to get you started:
+## About me
+I build automation systems for business using AI tools, Excel, Google Sheets and scripting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- AI automation (ChatGPT, Perplexity)
+- Email workflows automation
+- Data processing systems
+- Business process automation
+
+## Tools
+- ChatGPT
+- Perplexity
+- Excel
+- Google Sheets
+- Apps Script
+- Python (in progress)
+- API integrations
+- n8n (in progress)
+- Telegram bots (in progress)
+- Cursor
+- Visual Studio Code
+
+## Projects
+- AI School Automation System
+- Crypto Tax Automation Spain
+- AI Communication Automation
+
+## Location
+Barcelona, Spain
