@@ -34,6 +34,8 @@ I build automation systems for business using AI tools, Excel, Google Sheets and
 - AI School Automation System
 - Crypto Tax Automation Spain
 - AI Communication Automation
+- [Dental Clinic Assistant](https://github.com/alexzay07/dental-clinic-assistant)  
+  Telegram chatbot prototype for dental clinic appointment automation using SaleBot.
 
 ## Location
 Barcelona, Spain
